@@ -1,0 +1,62 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# IDE and editor specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Byte-compiled / optimized / DLL files
+*.pyd
+*.pyo
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+
+# Test and coverage reports
+.coverage
+.tox/
+.nosetests.xml
+coverage.xml
+*.cover
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Pytest cache
+.pytest_cache/
+
+# Pyre type checker
+.pyre/
+
+# mypy type checker
+.mypy_cache/
+
+# Pyre type checker
+.pyre/
+
+# Other files to ignore if necessary
+*.DS_Store  # macOS specific file
